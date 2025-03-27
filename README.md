@@ -1,4 +1,4 @@
-## Hi there 👋
+## Halo semuaa 👋
 
 <p align="left">
 <a href="https://github.com/penuliscode">
