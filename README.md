@@ -25,7 +25,7 @@
 
 ### 🚀 Proyek Saat Ini
 
-🧠 **[Neurofin (Frontend)](https://github.com/kevinsinatria)**  
+🧠 **[Neurofin (Frontend)]([https://github.com/kevinsinatria](https://github.com/KevinSinatria/NeuroFin.git))**  
 Mengembangkan antarmuka pengguna yang modern dan intuitif untuk platform finansial pintar. Dibangun dengan React & TailwindCSS.
 
 ---
