@@ -32,7 +32,7 @@ Mengembangkan antarmuka pengguna yang modern dan intuitif untuk platform finansi
 ### 📊 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinsinatria&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KevinSinatria&show_icons=true&theme=radical" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsinatria&layout=compact&theme=radical" height="170"/>
 </p>
 
@@ -40,7 +40,7 @@ Mengembangkan antarmuka pengguna yang modern dan intuitif untuk platform finansi
 
 ### 📬 Hubungi Saya
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinsinatria)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/KevinSinatria)  
 📩 Terbuka untuk kolaborasi, freelance, atau sekadar ngobrol seputar dunia teknologi!
 
 ---
