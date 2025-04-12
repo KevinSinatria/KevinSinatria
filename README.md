@@ -1,5 +1,6 @@
 <h1 align="center">Halo 👋, saya Kevin Sinatria Budiman</h1>
 <h3 align="center">Web Developer | Laravel Artisan | ReactJS</h3>
+<h3 align="center">Enthusiast</h3>
 
 ---
 
