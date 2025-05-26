@@ -57,5 +57,5 @@
 ---
 
 <p align="center">
-  🚀 Terus belajar. Terus berkarya. Terus berkembang.
+  🚀 Terus belajar. Terus berkarya. Terus berkembang. "Man Jadda Wajada".
 </p>
