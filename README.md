@@ -4,7 +4,6 @@
 ---
 
 🌐 Saya adalah seorang web developer yang antusias membangun aplikasi web yang berdampak menggunakan teknologi modern.  
-🎯 Saat ini sedang fokus pada pengembangan frontend untuk proyek **Neurofin**, platform finansial dengan pengalaman pengguna yang cerdas.  
 💡 Selalu tertarik mengeksplorasi hal baru di dunia web — mulai dari API, UI/UX, hingga performa aplikasi.
 
 ---
