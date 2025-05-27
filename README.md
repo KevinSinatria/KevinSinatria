@@ -4,7 +4,7 @@
 ---
 ### Tentang Saya:
 
-🌐 Saya adalah seorang web developer yang antusias membangun aplikasi web yang berdampak menggunakan teknologi modern.  
+🌐 I am a web developer passionate about building impactful web applications using modern technologies.  
 💡 Selalu tertarik mengeksplorasi hal baru di dunia web — mulai dari API, UI/UX, hingga performa aplikasi.
 
 ---
