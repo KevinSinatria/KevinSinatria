@@ -58,10 +58,10 @@
 ### 📬 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-sinatria-budiman-352650353/)
-📩 Terbuka untuk kolaborasi, freelance, atau sekadar ngobrol seputar dunia teknologi!
+📩 Open for collaboration, freelancing, or just chatting about the world of technology!
 
 ---
 
 <p align="center">
-  🚀 Terus belajar. Terus berkarya. Terus berkembang. "Man Jadda Wajada".
+  🚀 Keep learning. Keep creating. Keep developing. “Man Jadda Wajada”.
 </p>
