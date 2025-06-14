@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! I'm Kevin Sinatria Budiman</h1
+<h1 align="center">Hello World! I'm Kevin Sinatria Budiman</h1>
 <h3 align="center">Full Stack Dev Enthusiast | Laravel Artisan | ReactJS</h3>
 
 ---
