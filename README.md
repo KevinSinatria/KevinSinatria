@@ -67,6 +67,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KevinSinatria/KevinSinatria/output/pacman-contribution-graph.svg">
 </picture>
 
+---
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 ###
 ---
 
