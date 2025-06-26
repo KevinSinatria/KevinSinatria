@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co/j5sm3CW/PPLG-nobg.png" alt="PPLG-nobg" style="width: 7rem" />
 </div>
 
-<h1 align="center">Hello World! I'm Kevin Sinatria Budiman</h1>
+<h1 align="center">Hello World! I'm Kevin Sinatria Budiman</h1
 <h3 align="center">Full Stack Dev Enthusiast | Laravel Artisan | ReactJS</h3>
 
 ---
