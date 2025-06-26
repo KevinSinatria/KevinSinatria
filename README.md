@@ -68,7 +68,7 @@
 </picture>
 
 ---
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)
 ###
 ---
 
