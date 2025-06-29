@@ -1,5 +1,5 @@
 <div class="organization" align="center" style="max-width: 5rem">
-<img src="https://i.ibb.co/j5sm3CW/PPLG-nobg.png" alt="PPLG-nobg" style="width: 7rem" /
+<img src="https://i.ibb.co/j5sm3CW/PPLG-nobg.png" alt="PPLG-nobg" style="width: 7rem" />
 </div>
 
 <h1 align="center">Hello World! I'm Kevin Sinatria Budiman</h1>
