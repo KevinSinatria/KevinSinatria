@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A637E&height=120&section=header&animation=twinkling"/>
 <div class="organization" align="center" style="max-width: 5rem">
 <img src="https://i.ibb.co/j5sm3CW/PPLG-nobg.png" alt="PPLG-nobg" style="width: 7rem" />
 </div>
@@ -103,3 +104,5 @@
 <p align="center">
   🚀 Keep learning. Keep creating. Keep developing. “Man Jadda Wajada”.
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A637E&height=120&section=footer&animation=twinkling"/>
