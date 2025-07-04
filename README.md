@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3DF4AD&height=120&section=header&animation=twinkling"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3DF4AD&height=80&section=header&animation=twinkling"/>
 
 <h1 align="center">Hello World! I'm Kevin Sinatria Budiman</h1>
 <h3 align="center">Full Stack Dev Enthusiast | Laravel Artisan | ReactJS</h3>
@@ -102,4 +102,4 @@
   🚀 Keep learning. Keep creating. Keep developing. “Man Jadda Wajada”.
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3DF4AD&height=120&section=footer&animation=twinkling"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3DF4AD&height=80&section=footer&animation=twinkling"/>
