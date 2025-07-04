@@ -14,7 +14,14 @@
 
 ---
 
-### 🧰 Tech Stack:
+### 🧰 My Tech Stack:
+
+---
+
+#### Frontend Development
+<div align="center">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+</div>
 
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
