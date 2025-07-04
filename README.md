@@ -1,6 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A637E&height=120&section=header&animation=twinkling"/>
-<div class="organization" align="center" style="max-width: 5rem">
-</div>
 
 <h1 align="center">Hello World! I'm Kevin Sinatria Budiman</h1>
 <h3 align="center">Full Stack Dev Enthusiast | Laravel Artisan | ReactJS</h3>
