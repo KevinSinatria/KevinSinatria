@@ -72,6 +72,13 @@
   <img src="https://profile-counter.glitch.me/{KevinSinatria}/count.svg" alt="kevinsinatria :: Visitor's Count" />
 </div>
 
+<div align="center">
+  **Number of Profile Visitors:**
+  <br>
+  <img src="https://profile-counter.glitch.me/{KevinSinatria}/count.svg" alt="kevinsinatria :: Visitor's Count" />
+  <br>
+</div>
+
 ---
 
 <picture>
