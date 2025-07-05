@@ -69,11 +69,7 @@
 </p>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/{KevinSinatria}/count.svg" alt="kevinsinatria :: Visitor's Count" />
-</div>
-
-<div align="center">
-  **Number of Profile Visitors:**
+  <h3>Number of Profile Visitors:</h3>
   <br>
   <img src="https://profile-counter.glitch.me/{KevinSinatria}/count.svg" alt="kevinsinatria :: Visitor's Count" />
   <br>
