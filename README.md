@@ -3,8 +3,6 @@
 <h1 align="center">Hello World! I'm Kevin Sinatria Budiman</h1>
 <h3 align="center">Full Stack Web Dev Enthusiast</h3>
 
-## About Me:
-
 ```json
 {
   "about_me": {
