@@ -1,53 +1,52 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3DF4AD&height=100&section=header&animation=twinkling"/>
 
 <h1 align="center">Hello World! I'm Kevin Sinatria Budiman</h1>
-<h3 align="center">Full Stack Dev Enthusiast | Laravel Artisan | ReactJS</h3>
+<h2 align="center">Full Stack Dev Enthusiast | Laravel Artisan | ReactJS</h3>
 
 ---
 
-### About Me:
+## About Me:
 
 🌐 I am a web developer passionate about building impactful web applications using modern technologies.  
 💡 Always interested in exploring new things in the world of the web — from APIs, UI/UX, to application performance.
 
 ---
 <div align="center">
-### 🧰 My Tech Stack:
+   
+## My Tech Stack:
 
 ---
 
-#### Frontend Development
+### Frontend Development
 
 <div>
    <img src="https://skillicons.dev/icons?i=html,css,js,react,alpinejs,tailwind,bootstrap,vite" />
 </div>
 
-#### Backend Development
+### Backend Development
 <div>
   <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,laravel,php" />
 </div>
 
-#### Database
+### Database
 <div>
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,supabase" />
 </div>
 
-#### DevOps & Cloud
+### DevOps & Cloud
 <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify" />
 </div>
 
-#### Tools & Utilities
+### Tools & Utilities
 <div>
 <img src="https://skillicons.dev/icons?i=vscode,postman,figma,notion,discord" />
 </div>
 
----
 </div>
+---
 
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="64" /></div>
 <h2 align="center">My Stats</h2>
-
-###
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=KevinSinatria&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
@@ -74,13 +73,10 @@
 
 ![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)
 
-###
 
 ---
 
 ### 📬 Contact Me
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/kevin-sinatria-budiman/">
