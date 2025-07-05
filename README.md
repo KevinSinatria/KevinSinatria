@@ -99,7 +99,7 @@
 
 ---
 <div align="center">
-![Github Readme Daily Quotes - Dark](https://readme-daily-quotes.vercel.app/api?theme=dark#gh-dark-mode-only)
+[Github Readme Daily Quotes - Dark](https://readme-daily-quotes.vercel.app/api?theme=dark#gh-dark-mode-only)
 
 <p align="center">
   🚀 Keep learning. Keep creating. Keep developing. “Man Jadda Wajada”.
