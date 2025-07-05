@@ -30,6 +30,7 @@
 </div>
 
 ### DevOps & Cloud
+<div>
 <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify" />
 </div>
 
