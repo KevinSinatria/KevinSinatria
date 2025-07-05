@@ -3,8 +3,6 @@
 <h1 align="center">Hello World! I'm Kevin Sinatria Budiman</h1>
 <h3 align="center">Full Stack Dev Enthusiast | Laravel Artisan | ReactJS</h3>
 
----
-
 ## About Me:
 
 🌐 I am a web developer passionate about building impactful web applications using modern technologies.  
@@ -14,8 +12,6 @@
 <div align="center">
    
 ## My Tech Stack:
-
----
 
 ### Frontend Development
 
