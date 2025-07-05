@@ -98,9 +98,12 @@
 📩 Open for collaboration, freelancing, or just chatting about the world of technology!
 
 ---
+<div align="center">
+[![Github Readme Daily Quotes - Dark](https://readme-daily-quotes.vercel.app/api?theme=dark#gh-dark-mode-only)](https://github.com/cheehwatang/github-readme-daily-quotes#gh-dark-mode-only)
 
 <p align="center">
   🚀 Keep learning. Keep creating. Keep developing. “Man Jadda Wajada”.
 </p>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3DF4AD&height=80&section=footer&animation=twinkling"/>
