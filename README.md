@@ -19,6 +19,7 @@
     "tagline": "Always interested in exploring new things in the world of the web — from APIs, UI/UX, to application performance."
   }
 }
+```
 
 ---
 <div align="center">
