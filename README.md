@@ -70,7 +70,6 @@
 
 <div align="center">
   <h3>Number of Profile Visitors:</h3>
-  <br>
   <img src="https://profile-counter.glitch.me/{KevinSinatria}/count.svg" alt="kevinsinatria :: Visitor's Count" />
   <br>
 </div>
