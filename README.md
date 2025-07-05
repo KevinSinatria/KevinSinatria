@@ -16,7 +16,7 @@
       "UI/UX",
       "Application Performance"
     ],
-    "tagline": "Always interested in exploring new things in the world of the web — from APIs, UI/UX, to application performance."
+    "tagline": "Continuously unearthing the next big thing in web development."
   }
 }
 ```
