@@ -27,7 +27,7 @@
 ### Frontend Development
 
 <div>
-   <img src="https://skillicons.dev/icons?i=html,css,js,react,alpinejs,tailwind,bootstrap,vite" />
+   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,alpinejs,tailwind,bootstrap,vite" />
 </div>
 
 ### Backend Development
