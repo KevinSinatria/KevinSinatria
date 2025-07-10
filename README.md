@@ -14,7 +14,7 @@
       "UI/UX",
       "Application Performance"
     ],
-    "tagline": "Continuously unearthing the next big thing in web development."
+    "tagline": "Keep committing even if it's only 1 line."
   }
 }
 ```
