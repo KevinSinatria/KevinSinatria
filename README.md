@@ -82,11 +82,6 @@
 
 ---
 
-![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)
-
-
----
-
 ### 📬 Contact Me
 
 <div align="left">
