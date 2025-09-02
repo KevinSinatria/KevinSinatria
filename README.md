@@ -66,12 +66,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsinatria&layout=compact&theme=radical" height="170"/>
 </p>
 
-<div align="center">
-  <h3>Number of Profile Visitors:</h3>
-  <img src="https://profile-counter.glitch.me/{KevinSinatria}/count.svg" alt="kevinsinatria :: Visitor's Count" />
-  <br>
-</div>
-
 ---
 
 <picture>
