@@ -17,7 +17,7 @@
     "tagline": "Keep committing even if it's only 1 line."
   }
 }
-``
+```
 
 ---
 <div align="center">
