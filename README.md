@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3DF4AD&height=120&section=header&animation=twinkling"/
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3DF4AD&height=120&section=header&animation=twinkling"/>
 
 <h1 align="center">Hello World! I'm Kevin Sinatria Budiman</h1>
 <h3 align="center">Full Stack Web Developer & ML Enthusiast</h3>
