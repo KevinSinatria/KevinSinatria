@@ -42,7 +42,7 @@
 
 ### DevOps & Cloud
 <div>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,linux,ubuntu" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,linux,ubuntu,coolify" />
 </div>
 
 ### Tools & Utilities
