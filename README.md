@@ -42,12 +42,12 @@
 
 ### DevOps & Cloud
 <div>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,linux,ubuntu,coolify" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,linux,ubuntu" />
 </div>
 
 ### Tools & Utilities
 <div>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,notion,discord" />
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,notion,discord,trello" />
 </div>
 
 </div>
