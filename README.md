@@ -105,3 +105,4 @@
 </h2>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3DF4AD&height=80&section=footer&animation=twinkling"/>
+<!-- STREAK_MARKER -->
