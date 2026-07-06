@@ -32,17 +32,12 @@
 
 ### Backend Development
 <div>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,py,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,py,flask,prisma" />
 </div>
 
 ### Database
 <div>
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,supabase" />
-</div>
-
-### Libraries
-<div>
-  <img src="https://skillicons.dev/icons?i=prisma,jwt,bcrypt,clerk" />
 </div>
 
 ### DevOps & Cloud
