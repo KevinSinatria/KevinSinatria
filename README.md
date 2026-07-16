@@ -32,7 +32,7 @@
 
 ### Backend Development
 <div>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,py,flask,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,prisma" />
 </div>
 
 ### Database
