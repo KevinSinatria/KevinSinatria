@@ -11,7 +11,6 @@
     "interests": [
       "Exploring new things in the world of the web",
       "APIs",
-      "UI/UX",
       "Application Performance"
     ],
     "tagline": "Keep committing even if it's only 1 line."
