@@ -46,7 +46,7 @@
 
 ### Tools & Utilities
 <div>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,notion,discord" />
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,notion,discord,opencode" />
 </div>
 
 </div>
